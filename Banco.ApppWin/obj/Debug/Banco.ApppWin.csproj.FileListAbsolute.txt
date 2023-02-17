@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\BANCO\Banco.ApppWin\bin\Debug\Banco.ApppWin.exe.config
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\BANCO\Banco.ApppWin\bin\Debug\Banco.ApppWin.exe
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\BANCO\Banco.ApppWin\bin\Debug\Banco.ApppWin.pdb
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\BANCO\Banco.ApppWin\obj\Debug\Banco.ApppWin.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\BANCO\Banco.ApppWin\obj\Debug\Banco.ApppWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\BANCO\Banco.ApppWin\obj\Debug\Banco.ApppWin.Form1.resources
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\BANCO\Banco.ApppWin\obj\Debug\Banco.ApppWin.Properties.Resources.resources
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\BANCO\Banco.ApppWin\obj\Debug\Banco.ApppWin.csproj.GenerateResource.cache
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\BANCO\Banco.ApppWin\obj\Debug\Banco.ApppWin.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\BANCO\Banco.ApppWin\obj\Debug\Banco.ApppWin.exe
+C:\Users\chris\Documents\carpeta de DESARROLLO DE SOLUCIONES EMPRESARIALES\BANCO\Banco.ApppWin\obj\Debug\Banco.ApppWin.pdb
